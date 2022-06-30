@@ -9,6 +9,7 @@
     <iq:permissions/>
     <iq:languages/>
     <iq:barrels>
+      <iq:depends name="MonkeyBarrelDemo" version="0.0.1"/>
     </iq:barrels>
   </iq:application>
 </iq:manifest>

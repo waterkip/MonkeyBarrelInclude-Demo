@@ -4,3 +4,8 @@
 # SPDX-License-Identifier: BSD-3-Clause
 #
 project.manifest = manifest.xml
+
+MonkeyBarrelDemo = barrels/MonkeyBarrelDemo.barrel
+base.MonkeyBarrelDemo.annotations = all,test,release
+base.barrelPath = $(base.barrelPath);$(MonkeyBarrelDemo)
+

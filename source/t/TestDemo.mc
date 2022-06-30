@@ -6,11 +6,14 @@
 using Toybox.Test as t;
 using Toybox.Lang;
 
+using MonkeyBarrelDemo.Demo as demo;
+
 module TestDemo {
 
     (:test)
     function testSomething(logger) {
         t.assertMessage(true, "Passing the test");
+        t.assertMessage(!demo.bar(), "Bar returns false");
         return true;
     }
 
