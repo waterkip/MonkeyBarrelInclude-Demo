@@ -1,0 +1,15 @@
+<!--
+SPDX-FileCopyrightText: 2022 Wesley Schwengle <wesleys@opperschaap.net
+SPDX-FileCopyrightText: 2022 Wesley Schwengle <wesleys@opperschaap.net>
+
+SPDX-License-Identifier: BSD-3-Clause
+-->
+
+<strings>
+    <string id="AppName">AppProject</string>
+
+    <string id="prompt">Click the menu button</string>
+
+    <string id="menu_label_1">Item 1</string>
+    <string id="menu_label_2">Item 2</string>
+</strings>

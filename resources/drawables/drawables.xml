@@ -1,0 +1,10 @@
+<!--
+SPDX-FileCopyrightText: 2022 Wesley Schwengle <wesleys@opperschaap.net
+SPDX-FileCopyrightText: 2022 Wesley Schwengle <wesleys@opperschaap.net>
+
+SPDX-License-Identifier: BSD-3-Clause
+-->
+
+<drawables>
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+</drawables>
