@@ -6,6 +6,6 @@
 project.manifest = manifest.xml
 
 MonkeyBarrelDemo = barrels/MonkeyBarrelDemo.barrel
-base.MonkeyBarrelDemo.annotations = all,test,release
+base.MonkeyBarrelDemo.annotations = foo
 base.barrelPath = $(base.barrelPath);$(MonkeyBarrelDemo)
 
